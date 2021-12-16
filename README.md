@@ -1,3 +1,3 @@
-# DS-ML-Project
+# ML-Project
 
 Jimmy
